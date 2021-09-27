@@ -1,0 +1,246 @@
+.class1{
+    text-decoration: underline;
+    text-align: center;
+    height: 35x;
+    width: 100%;
+    background-color: red;
+    background-image: linear-gradient(to right, red, green,yellow);
+}
+.class2{
+    width: 196px;
+    height: 67px;
+    text-align: center;
+    border: 3px solid crimson;
+    padding-left: 344px;
+    border-radius: 15px;
+    margin-left: 16%;
+    padding-right: 334px;
+    font-size: 16px;
+    padding-bottom: 5px;
+    background-color: cornflowerblue;
+    margin-top: 15px;
+    position: relative;
+    top: -40px;
+    line-height: 17px;
+}
+.class3{
+    border: 2px solid rgb(137, 53, 53);
+    background-color: lightseagreen;
+    border-radius: 20px;
+    width: 100%;
+    height: 145px;
+    position: relative;
+    left: 0px;
+    
+
+}
+.class4{
+    text-align: center;
+    border: 2px solid teal;
+    border-radius: 9px;
+    width: 30%;
+    font-weight: bold;
+    font-size: 20px;
+    height: 59px;
+    background-color: cyan;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: -11px;
+    left: 6px;
+    
+
+}
+.class5{
+    text-align: center;
+    border: 2px solid teal;
+    border-radius: 9px;
+    width: 30%;
+    font-weight: bold;
+    font-size: 20px;
+    height: 59px;
+    background-color: cyan;
+    display: inline-block;
+    padding: 5px;
+    position: absolute;
+    top: -11px;
+    right: 509px;
+    margin: 10px;
+    
+}
+.class6{
+    text-align: center;
+    border: 2px solid teal;
+    border-radius: 9px;
+    width: 30%;
+    font-weight: bold;
+    font-size: 19px;
+    height: 59px;
+    background-color: cyan;
+    display: inline-block;
+    padding: 5px;
+    margin: 1opx;
+    position: absolute;
+    right: 16px;
+    top: -2px;
+    
+
+}
+.class7{
+    text-align: center;
+    border: 2px solid teal;
+    border-radius: 9px;
+    width: 30%;
+    font-weight: bold;
+    font-size: 18px;
+    height: 59px;
+    background-color: cyan;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 61px;
+    left: 509px;
+    justify-content: space-evenly;
+    
+}
+.class8{
+    text-align: center;
+    text-decoration: underline red;
+    height:40px ;
+    width: 100%;
+    background-color: red;
+    background-image: linear-gradient(to right,red,yellow,red);
+}
+.class9{
+    border: 2px solid green;
+    height: 350px;
+    background-color: red;
+    background-image: radial-gradient(rgb(17, 17, 230), rgb(67, 250, 67));
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.class10{
+    border: 2px solid red;
+    background-color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 20px;
+    width: 200px;
+    height: 100px;
+    color: red;
+    /* justify-content: space-evenly; */
+    line-height: 30px;
+
+}
+.class11{
+    border: 2px solid red;
+    background-color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 20px;
+    width: 200px;
+    height: 100px;
+    color: red;
+    /* justify-content: space-evenly; */
+    line-height: 30px;
+}
+.class12{
+    border: 2px solid red;
+    background-color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 20px;
+    width: 200px;
+    height: 100px;
+    color: red;
+    /* justify-content: space-evenly; */
+    line-height: 30px;
+}
+.class13{
+    border: 2px solid red;
+    background-color: yellow;
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 20px;
+    width: 200px;
+    height: 100px;
+    color: red;
+    /* justify-content: space-evenly; */
+    line-height: 30px;
+}
+.class14{
+    text-align: center;
+    background-color: rgb(255, 24, 128);
+    color: white;
+    height: 35px;
+}
+.class15{
+    
+}
+.class16{
+    text-align: center;
+    background-color: rgb(20, 241, 20);
+    color: white;
+    width: 446px;
+    line-height: 40px;
+    height: 83px;
+    position: relative;
+    top: -40px;
+    font-size: 28px;
+    
+}
+.class17{
+    text-align: left;
+    background-color: dodgerblue;
+    color: white;
+    width: 446px;
+    line-height: 35px;
+    height: 83px;
+    font-size: 28px;
+    position: relative;
+    top: -157px;
+    left: 459px;
+}
+.class18{
+    text-align: left;
+    background-color: blueviolet;
+    color: white;
+    width: 446px;
+    line-height: 25px;
+    height: 83px;
+    position: relative;
+    top: -272px;
+    left: 918px;
+    font-size: 28px;
+}
+.class19{
+    background-color: orange;
+    color: white;
+    width: 91%;
+    height: 180px;
+    text-align: left;
+    position: relative;
+    top: -290px;
+    font-size: 27px;
+}
+.class20{
+    color: white;
+    background-color: black;
+    width: 123px;
+    text-align: 20px;
+    position: relative;
+    top: -582px;
+    left: 1378px;
+    line-height: 28px;
+    
+}
+.class21{
+    background-color:cyan;
+    color: black;
+    text-align: center;
+    position: relative;
+    bottom: 590px;
+}
